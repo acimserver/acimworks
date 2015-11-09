@@ -1,0 +1,2 @@
+\select@language {turkish}
+\contentsline {chapter}{\numberline {1}Giri\IeC {\c s}}{5}

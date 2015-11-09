@@ -1,0 +1,51 @@
+Inserting LilyPond output into other programs
+
+To insert LilyPond output in other programs, use lilypond instead of lilypond-book. Each
+example must be created individually and added to the document; consult the documentation
+for that program. Most programs will be able to insert LilyPond output in ‘PNG’, ‘EPS’, or ‘PDF’
+formats.
+
+To reduce the white space around your LilyPond score, use the following options
+
+\paper{
+indent=0\mm
+line-width=120\mm
+oddFooterMarkup=##f
+oddHeaderMarkup=##f
+bookTitleMarkup = ##f
+scoreTitleMarkup = ##f
+}
+{ c1 }
+
+To produce a useful ‘EPS’ file, use
+
+lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts myfile.ly
+
+‘PNG’:
+
+lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts --png myfile.ly
+
+
+
+
+\include "lilypond-book-preamble.ly"
+
+3.1.2 Multiple scores in a book
+http://www.lilypond.org/doc/v2.19/Documentation/notation/multiple-scores-in-a-book
+
+http://www.lilypond.org/doc/v2.19/Documentation/notation/multiple-output-files-from-one-input-file
+
+
+/home/sacim/bin/lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts --png Master1.ly
+/home/sacim/bin/lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts --png Master2.ly
+
+================================================================================================
+Point-and-Click olmadan derlemek için şu komutu vereceğiz.
+
+/home/sacim/bin/lilypond -dno-point-and-click Master1.ly
+================================================================================================
+Parçaların yer aldığı web sayfası:
+https://sites.google.com/site/muzikselokumaparcalari2015/
+
+Bit.ly:
+http://bit.ly/MOParcalar
