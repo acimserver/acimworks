@@ -9,12 +9,13 @@ Böyle düşününleri çok çok iyi anlıyorum.
 
 ## NEDEN?
 Ben kendime göre _"bence"_ olması gerekenleri yapmaya çalıştım. İlk okuma parçalarını sekiz ölçü olarak kısa tuttum mesela.
-Haftalar boyu 2/4'lük ölçüye sıkışık kalınmasın diye ilk üç parçayı "iki (2) vuruşlu ölçüler" gibi bir kategori içinde düşünsün çalışan öğrenciler veya bu parçaları çalıştıran öğretmenler istedim.
+Haftalar boyu 2/4'lük ölçüye tıkılıp kalınmasın diye ilk üç parçayı "iki (2) vuruşlu ölçüler" gibi bir kategori içinde düşünsün çalışan öğrenciler veya bu parçaları çalıştıran öğretmenler istedim.
 
 ## TARTIMSAL OKUMA PARÇALARI
 Genelde Tartımsal Okuma Parçaları için müstakil-ayrı kitaplar vardır. Ben ise, öğrenilen ölçü yapısının izdüşüm içinde gitmesini istedim. Yani "iki vuruşlu ölçüler" kategorisi devam etti burada da.
 
-
+## ÖZGÜR YAZILIM KULLANIMI
+Ben bu notaları [GNU/LilyPond](https://acimanasayfa.wordpress.com/acik-kitap) ile yazıyorum. Notaları yazmış olduğum bilgisayar işletim sistemi ise [Linux Mint](https://www.linuxmint.net.tr). Müzikçiler için bir anlamı olmayabilir bu datayların ama benim için çok önemi var.
 
 - - -
 
