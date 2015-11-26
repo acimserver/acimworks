@@ -15,7 +15,7 @@ Haftalar boyu 2/4'lük ölçüye tıkılıp kalınmasın diye ilk üç parçayı
 Genelde Tartımsal Okuma Parçaları için müstakil-ayrı kitaplar vardır. Ben ise, öğrenilen ölçü yapısının izdüşüm içinde gitmesini istedim. Yani "iki vuruşlu ölçüler" kategorisi devam etti burada da.
 
 ## ÖZGÜR YAZILIM KULLANIMI
-Ben bu notaları [GNU/LilyPond](https://acimanasayfa.wordpress.com/acik-kitap) ile yazıyorum. Notaları yazmış olduğum bilgisayar işletim sistemi ise [Linux Mint](https://www.linuxmint.net.tr). Müzikçiler için bir anlamı olmayabilir bu datayların ama benim için çok önemi var.
+Ben bu notaları [GNU/LilyPond](https://acimanasayfa.wordpress.com/acik-kitap) ile yazıyorum. Notaları yazmış olduğum bilgisayar işletim sistemi ise [Linux Mint](https://www.linuxmint.net.tr). Müzikçiler için bir anlamı olmayabilir bu detayların ama benim için çok önemi var.
 
 - - -
 
