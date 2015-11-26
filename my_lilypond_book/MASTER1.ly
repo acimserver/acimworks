@@ -3,9 +3,8 @@
 \header {
   title = "Müziksel Okuma Parçaları"
   subtitle = "Birinci Kitap"
-  composer = "Server ACİM"
-  date = "2016"
-  tagline = "(Telif Hakları Server Acim'e Aittir)"
+  composer = "Server ACİM"  
+  tagline = "MALATYA - 2016 || (Telif Hakları Server Acim'e Aittir)"
 }
 \score {
   \include "parca1.ly"
@@ -47,7 +46,12 @@
   \header { piece = "Tartımsal Okuma Parçası - 3" }
 }
 
+% PARÇA 7 - Tartım 4
 
+\score {
+  \include "parca7-tartim4.ly"
+  \header { piece = "Tartımsal Okuma Parçası - 4" }
+}
 
 
 
