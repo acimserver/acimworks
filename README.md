@@ -1,6 +1,6 @@
 # Merhaba
-Bu klasör, benim çalışmalarımın yer aldığı bir klasör olacaktır.
+Bu klasör, benim çalışmalarımın yer aldığı bir dizin olma özelliği göstermektedir.
 
 Bu klasörde yer alacak alt klasör grupları:
-* Solfej Kitabı Materyalleri (Leanpub) Dizini içinde
-* Konservatuvar Armoni Soruları (Piyano ve Yaylı Çalgılar ASD - Sınıf 3 ve Sınıf 4)
+* LeanPub dizini test amacıyla tutuluyor.
+* Asıl önemli çalışma **my_lilypond_book** dizini içindedir.
