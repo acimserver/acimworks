@@ -1,5 +1,5 @@
 # Giriş
-Ülkemizde **Müzik** adına eğitim veren kurumlarda _(Müzik Öğretmenliği Programları,
+Ülkemizde **Müzik** adına eğitim veren kurumlarda _(Müzik Öğretmenliği Programları, 
 Güzel Sanatlar Fakültesi - Müzik Bölümleri, Sanat ve Tasarım Fakültesi veya Müzik ve
 Sahne Sanatları Fakültesi gibi adlarla bilinen kalıp başlıkların dışındaki birimlerde...)_ eğer
 öğrencinin *Güzel Sanatlar ve Spor Lisesi* geçmişi yok ise, Konservatuvar’larda adına
@@ -17,7 +17,7 @@ kamuoyunun kullanımına sunuyorum bu çalışma ile.
 
 Bu çalışmada hem _"Sesli Okuma Parçaları"_ ve _"Tartımsal Okuma Parçaları"_ yer almaktadır.
 
-*Müziksel Okuma Parçaları* adını taşıyan bu kitapta _"müzik eğitimi"_
+**Müziksel Okuma Parçaları** adını taşıyan bu kitapta _"müzik eğitimi"_
 alan tüm _Müzik Öğretmenliği_ öğrencileri, _Güzel Sanatlar Fakültesi - Müzik Bölümü_ öğren-
 cileri ve _Konservatuvar_ öğrencilerinin faydalanmaları için ürettiğim ezgisel ve tartımsal
 okuma parçalarını kamuoyunun kullanımına sunuyorum. Ayrıca, bu kitabı _Anadolu Güzel
@@ -27,6 +27,6 @@ ise elbette buna dair bir önlem yoktur.
 Umarım bu çalışma ile tüm _"müzik öğrenen"_ öğrencilere faydalı olabilirim.
 
 
-*Prof. Server ACİM*
+**Prof. Server ACİM**
 _Malatya - 2016_
 
