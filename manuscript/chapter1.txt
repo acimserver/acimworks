@@ -1,32 +1,28 @@
-# Giriş
-Ülkemizde **Müzik** adına eğitim veren kurumlarda _(Müzik Öğretmenliği Programları, 
-Güzel Sanatlar Fakültesi - Müzik Bölümleri, Sanat ve Tasarım Fakültesi veya Müzik ve
-Sahne Sanatları Fakültesi gibi adlarla bilinen kalıp başlıkların dışındaki birimlerde...)_ eğer
-öğrencinin *Güzel Sanatlar ve Spor Lisesi* geçmişi yok ise, Konservatuvar’larda adına
-"Solfej" ve/veya "Solfej-Dikte-Teori" denilen; Müzik Öğretmenliği Bilim Dalı kökenli kişi-
-lerin "Müziksel İşitme-Okuma-Yazma" olarak adlandırdıkları derslerde kullanılan okuma
-parçaları iki örneğin dışında Alber LAVINGAC’ın 8-13 yaş arasında müzik öğrenimi gören
-kişiler için yazmış olduğu parçalardır. Bu iki örnek Muammer SUN öğretmenimizin "Solfej
-- 1" ve "Solfej - 2" parçaları ile Ali SEVGİ öğretmenimizin Makam temelli Solfej okuma
-parçalarıdır. Bunun dışında Pozzoli’nin piyano eşlikli okuma parçaları, "Bona" denilen
-okuma parçaları ise ayrı birer seçenektir.
+# Kitap Hakkında Besteci'den Bir Kaç Söz
+Çoğu kişinin aklına şöyle bir düşünce gelebilir:
 
-Ben bir *besteci* olarak, bugüne kadar _Solfej Eğitimi_ adına dünyada ve ülkemizde üretilmiş olan tüm kitapları 
-üreten kişilere saygılarımı sunuyorum ve ben kendime göre ürettiğim yeni bir alternatifi
-kamuoyunun kullanımına sunuyorum bu çalışma ile. 
+>Yahu!, yazılmış pek çok Solfej Okuma Parçası varken şimdi ne gerek vardı? Böyle bir çalışmaya.
 
-Bu çalışmada hem _"Sesli Okuma Parçaları"_ ve _"Tartımsal Okuma Parçaları"_ yer almaktadır.
+Böyle düşününleri çok çok iyi anlıyorum.
 
-**Müziksel Okuma Parçaları** adını taşıyan bu kitapta _"müzik eğitimi"_
-alan tüm _Müzik Öğretmenliği_ öğrencileri, _Güzel Sanatlar Fakültesi - Müzik Bölümü_ öğren-
-cileri ve _Konservatuvar_ öğrencilerinin faydalanmaları için ürettiğim ezgisel ve tartımsal
-okuma parçalarını kamuoyunun kullanımına sunuyorum. Ayrıca, bu kitabı _Anadolu Güzel
-Sanatlar ve Spor Lisesi Müzik Öğrencileri_ ve _Müzik Öğretmenleri_ de kullanmak isterler
-ise elbette buna dair bir önlem yoktur.
+- - -
 
-Umarım bu çalışma ile tüm _"müzik öğrenen"_ öğrencilere faydalı olabilirim.
+## NEDEN?
+Ben kendime göre _"bence"_ olması gerekenleri yapmaya çalıştım. İlk okuma parçalarını sekiz ölçü olarak kısa tuttum mesela.
+Haftalar boyu 2/4'lük ölçüye tıkılıp kalınmasın diye ilk üç parçayı "iki (2) vuruşlu ölçüler" gibi bir kategori içinde düşünsün çalışan öğrenciler veya bu parçaları çalıştıran öğretmenler istedim.
 
+## TARTIMSAL OKUMA PARÇALARI
+Genelde Tartımsal Okuma Parçaları için müstakil-ayrı kitaplar vardır. Ben ise, öğrenilen ölçü yapısının izdüşüm içinde gitmesini istedim. Yani "iki vuruşlu ölçüler" kategorisi devam etti burada da.
 
-**Prof. Server ACİM**
-_Malatya - 2016_
+## ÖZGÜR YAZILIM KULLANIMI
+Ben bu notaları [GNU/LilyPond](https://acimanasayfa.wordpress.com/acik-kitap) ile yazıyorum. Notaları yazmış olduğum bilgisayar işletim sistemi ise [Linux Mint](https://www.linuxmint.net.tr). Müzikçiler için bir anlamı olmayabilir bu detayların ama benim için çok önemi var.
 
+- - -
+
+# BANA ULAŞMAK İSTEYENLERE!
+* Eğer içinizden bana e-posta göndermek isteyen olur ise <serveracim@gmail.com> adresinden bana ulaşabilirsiniz.
+* Eğer bağımsız web sayfama göz atmak isterseniz de <http://acim.name.tr> adresine tıklayabilirsiniz.
+
+- - -
+
+İyi çalışmalar diliyorum.

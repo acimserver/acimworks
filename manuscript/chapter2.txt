@@ -1,2 +1,13 @@
 # İlk Parçalar
 Kitabımızın ilk parçalarımızda öğrencilerin 2/4'lük ölçü birimini ve ikilik, dörtlük ve sekizlik nota sürelerini ve bu nota sürelerinin suskularını öğrendiklerini varsayıyoruz. Tonalite olarak *Do Majör* tonu içinde kalarak bu parçaları yazıyoruz. Parçalarımızın ölçü sayıları ilk parçalar olduğu için sekiz ölçü ile sınırlandırılmıştır.
+
+## Denemeler
+Aşağıda bazı simgeleri deneyeceğim.
+
+A> Bu bir yan bardır.
+
+T> Tip: Yani ipucu için buraya bakacağız.
+
+W> Warning: Uyarı. Kediler tırmalar.
+
+Bunlar çalışırsa çok çok iyi olacak.
