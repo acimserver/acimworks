@@ -4,7 +4,17 @@
   title = "Müziksel Okuma Parçaları"
   subtitle = "Birinci Kitap"
   composer = "Server ACİM"  
-  tagline = "MALATYA - 2016 || (Telif Hakları Server Acim'e Aittir)"
+  tagline = ""
+  copyright = \markup {
+			 \fill-line {
+			     \tiny {
+				\line {Server ACİM (2016) \epsfile #X #10 #'"/by-nc-nd.eps" }
+			     }
+		        }
+		}
+  
+% PARÇA 1 
+  
 }
 \score {
   \include "parca1.ly"

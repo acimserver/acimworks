@@ -2,8 +2,14 @@ gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=finished.pdf file1.pdf fi
 
 gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=SAcim-Okuma_Parcalari_Kitap1.pdf KAPAK_VE_ILKSOZLER.pdf MASTER1.pdf ARKA_KAPAK.pdf
 
+
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%
 PDF Metadata Değiştirmek İçin
 http://scottnesbitt.net/ubuntublog/reinserting-metadata-into-a-pdf-file/
 "PDFMod" yazılımı bu iş için ideal diyorlar.
 
+Gerek yok. LibreOffice'de değişiyor.
