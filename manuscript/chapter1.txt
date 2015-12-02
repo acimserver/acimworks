@@ -19,6 +19,13 @@ Ben bu notaları [GNU/LilyPond](https://acimanasayfa.wordpress.com/acik-kitap) i
 
 - - -
 
+## BİRAZ DAHA DETAY
+Bu kitabın yazarı bir bestecidir ve aynı zamanda çoğunlukla Üniversite'de lisans seviyesinde müzik öğrenmeye başlayan öğrencilere 1998 yılından başlayarak Solfej dersi vermiştir. Önce **Yıldız Teknik Üniversitesi - Sanat ve Tasarım Fakültesi - Müzik ve Sahne Sanatları Bölümü**'nde Fakülte'nin kuruluş sürecinden itibaren **Prof. Ahmet YÜRÜR, Prof. Ruhi AYANGİL Doç. Alper MARAL** ile yoğun istişareler yaparak eğitimin temellerinin oluşturulması sürecine katkı vermiştir.
+
+Buradaki deneyimlerinden sonra, **İnönü Üniversitesi - Güzel Sanatlar ve Tasarım Fakültesi - Müzik Bölümü**'nün kuruluş sürecine yine katkılar vermekte iken  bazıları Anadolu Güzel Sanatlar ve Spor Lisesi kökenli olup bazıları ise düz Lise kökenli kişilerin Lisans devresinde Solfej dersi aldıklarında yaşanan problemlerin doğrudan muhatabı olmuştur. Son olarak da **İnönü Üniversitesi - Devlet Konservatuvarı - Müzik Bölümü**'nün kuruluşunda çalışarak ve benzer sorunları burada da yaşadıktan sonra elde mevcut olan Solfej kitapları ile var olan öğrenci profili arasında _"doku uyuşmazlığı"_ olduğunu fark ederek, edinilen tecrübeler ışığında bazı özgün besteler üreterek öğrencilerin rahat çalışabileceği ve seslendirebileceği kaynak oluşturmayı amaçlamıştır.
+
+
+
 # BANA ULAŞMAK İSTEYENLERE!
 * Eğer içinizden bana e-posta göndermek isteyen olur ise <serveracim@gmail.com> adresinden bana ulaşabilirsiniz.
 * Eğer bağımsız web sayfama göz atmak isterseniz de <http://acim.name.tr> adresine tıklayabilirsiniz.
