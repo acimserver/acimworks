@@ -63,13 +63,57 @@
   \header { piece = "Tartımsal Okuma Parçası - 4" }
 }
 
+%% SUSLAR DEVREYE GİRDİ. || SESLİ PARÇA 4
+
+\score {
+  \include "parca4.ly"
+  \header { piece = "Sesli Okuma Parçası - 4" }
+}
+
+% SESLİ PARÇA 5
 
 
+\score {
+  \include "parca5.ly"
+  \header { piece = "Sesli Okuma Parçası - 5" }
+}
 
+% SESLİ PARÇA 6
 
+\score {
+  \include "parca6.ly"
+  \header { piece = "Sesli Okuma Parçası - 6" }
+}
 
+% TARTIMSAL PARÇA 8
 
+\score {
+  \include "parca8-tartim5.ly"
+  \header { piece = "Tartımsal Okuma Parçası - 5" }
+}
 
+% TARTIMSAL PARÇA 9
+
+\score {
+  \include "parca9-tartim6.ly"
+  \header { piece = "Tartımsal Okuma Parçası - 6" }
+}
+
+% TARTIMSAL PARÇA 10
+
+\score {
+  \include "parca10-tartim7.ly"
+  \header { piece = "Tartımsal Okuma Parçası - 7" }
+}
+
+\pageBreak
+
+% TARTIMSAL PARÇA 11
+
+\score {
+  \include "parca11-tartim8.ly"
+  \header { piece = "Tartımsal Okuma Parçası - 8" }
+}
 
 
 %\bookpart {

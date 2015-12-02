@@ -1,0 +1,9 @@
+# İkinci Bölüm
+Her okuma parçaları grubundan önce parça grupları hakkında kısa bir açıklama yer alacaktır.
+
+## Birinci Grup Okuma Parçaları
+Birinci Grup Okuma Parçaları 2 vuruşlu ölçüler ile oluşturulmuş olup, bu parçaların ezgisel dokusu _yanaşık_ olarak planlanmıştır.
+
+/images/parca1-1.eps
+/images/parca2-1.eps
+/images/parca3-1.eps
