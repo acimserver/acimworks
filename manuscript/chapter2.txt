@@ -4,10 +4,16 @@ Her okuma parçaları grubundan önce parça grupları hakkında kısa bir açı
 ## Birinci Grup Okuma Parçaları
 Birinci Grup Okuma Parçaları 2 vuruşlu ölçüler ile oluşturulmuş olup, bu parçaların ezgisel dokusu _yanaşık_ olarak planlanmıştır.
 
-![Birinci Parça](/images/2/parca1-1.eps)
+* 2/4 ölçü birimine sahip ve 8 ölçü uzunluğunda yanaşık seslerle yazılmış bir parça:
+
+![Birinci Parça](/images/2/parca1.png)
 
 
-![İkinci Parça] (/images/2/parca2-1.eps)
+* 2/2 ölçü birimine sahip ve 8 ölçü uzunluğunda yanaşık seslerle yazılmış bir parça:
+
+![İkinci Parça] (/images/2/parca2.png)
 
 
-![Üçüncü Parça] (/images/2/parca3-1.eps)
+* 2/8 ölçü birimine sahip ve 8 ölçü uzunluğunda yanaşık seslerle yazılmış bir parça:
+
+![Üçüncü Parça] (/images/2/parca3.png)
