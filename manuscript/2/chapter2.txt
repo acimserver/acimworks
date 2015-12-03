@@ -4,8 +4,8 @@ Her okuma parçaları grubundan önce parça grupları hakkında kısa bir açı
 ## Birinci Grup Okuma Parçaları
 Birinci Grup Okuma Parçaları 2 vuruşlu ölçüler ile oluşturulmuş olup, bu parçaların ezgisel dokusu _yanaşık_ olarak planlanmıştır.
 
-![Sesli Okuma Parçası - 1] (/2/images/parca1.png)
+![Sesli Okuma Parçası - 1] (/images/parca1.png)
 
-![Sesli Okuma Parçası - 2] (/2/images/parca2.png)
+![Sesli Okuma Parçası - 2] (/images/parca2.png)
 
-![Sesli Okuma Parçası - 3]  (/2/images/parca3.png)
+![Sesli Okuma Parçası - 3]  (/images/parca3.png)
