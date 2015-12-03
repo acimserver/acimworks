@@ -1,2 +1,2 @@
 chapter1.txt
-/2/chapter2.txt
+chapter2.txt
