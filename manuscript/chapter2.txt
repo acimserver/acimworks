@@ -6,14 +6,14 @@ Birinci Grup Okuma Parçaları 2 vuruşlu ölçüler ile oluşturulmuş olup, bu
 
 * 2/4 ölçü birimine sahip ve 8 ölçü uzunluğunda yanaşık seslerle yazılmış bir parça:
 
-![Birinci Parça](/images/2/parca1.png)
+![Birinci Parça](/images/parca1.png)
 
 
 * 2/2 ölçü birimine sahip ve 8 ölçü uzunluğunda yanaşık seslerle yazılmış bir parça:
 
-![İkinci Parça] (/images/2/parca2.png)
+![İkinci Parça] (/images/parca2.png)
 
 
 * 2/8 ölçü birimine sahip ve 8 ölçü uzunluğunda yanaşık seslerle yazılmış bir parça:
 
-![Üçüncü Parça] (/images/2/parca3.png)
+![Üçüncü Parça] (/images/parca3.png)
