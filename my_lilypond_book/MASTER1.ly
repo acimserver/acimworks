@@ -63,6 +63,8 @@
   \header { piece = "Tartımsal Okuma Parçası - 4" }
 }
 
+\pageBreak
+
 %% SUSLAR DEVREYE GİRDİ. || SESLİ PARÇA 4
 
 \score {
@@ -106,7 +108,7 @@
   \header { piece = "Tartımsal Okuma Parçası - 7" }
 }
 
-\pageBreak
+
 
 % TARTIMSAL PARÇA 11
 
