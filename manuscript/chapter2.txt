@@ -25,3 +25,17 @@ Birinci Grup İşitme Parçaları 2 vuruşlu ölçüler ile oluşturulmuş olup,
 - 2 vuruşlu, atlamalı ve 1 vuruşluk susların bulunduğu bir dikte:
 
 ![Dikte 2](images/dikte2.png)
+
+### NOTALARIN KAYNAK KODLARI
+Notaların Prof. Server ACİM tarafından [GNU/LilyPond](http://www.lilypond.org) yazılımı ile yazılması nedeniyle _Özgür Yazılım Felsefesi_'nin bir izdüşümü olarak bu notaların kaynak kodlarının paylaşılması yapılmıştır.
+
+Birinci Dikte'nin Kaynak Kodları:
+
+![Dikte 1 - GNU/LilyPond Kaynak Kodu](codes/dikte1.ly)
+
+- - -
+
+İkinci Dikte'nin Kaynak Kodları
+![Dikte 2 - GNU/LilyPond Kaynak Kodu](codes/dikte2.ly)
+
+
