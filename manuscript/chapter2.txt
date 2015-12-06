@@ -20,6 +20,8 @@ Birinci Grup İşitme Parçaları 2 vuruşlu ölçüler ile oluşturulmuş olup,
 
 - 2 vuruşlu ve yanaşık ezgisel yapıdaki birinci dikte:
 
-![Dikte 1](images/2/dikte1.png)
+![Dikte 1](images/dikte1.png)
 
+- 2 vuruşlu, atlamalı ve 1 vuruşluk susların bulunduğu bir dikte:
 
+![Dikte 2](images/dikte2.png)
