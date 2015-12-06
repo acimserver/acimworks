@@ -31,11 +31,12 @@ Notaların Prof. Server ACİM tarafından [GNU/LilyPond](http://www.lilypond.org
 
 Birinci Dikte'nin Kaynak Kodları:
 
-![Dikte 1 - GNU/LilyPond Kaynak Kodu](codes/dikte1.ly)
+![Dikte 1 - GNU/LilyPond Kaynak Kodu](codes/dikte1.txt)
 
 - - -
 
 İkinci Dikte'nin Kaynak Kodları
-![Dikte 2 - GNU/LilyPond Kaynak Kodu](codes/dikte2.ly)
+
+![Dikte 2 - GNU/LilyPond Kaynak Kodu](codes/dikte2.txt)
 
 
