@@ -1,0 +1,25 @@
+LilyPond dosyasından PNG üretmek için detaylar:
+
+--png
+
+Yüksek çözünürlük için: 300 DPI veya 600 Dpi gibi
+
+--ps
+
+-dresolution=500
+
+PNG üretmek için varolan kod:
+
+/home/sacim/LilyPond_Frescobaldi/lilypond_executive/lilypond/usr/bin/lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts -dresolution=500 --ps --png dikte1.ly
+
+============================================================================
+Sayfayı küçültmek için:
+
+\paper{
+  indent=0\mm
+  line-width=120\mm
+  oddFooterMarkup=##f
+  oddHeaderMarkup=##f
+  bookTitleMarkup = ##f
+  scoreTitleMarkup = ##f
+}

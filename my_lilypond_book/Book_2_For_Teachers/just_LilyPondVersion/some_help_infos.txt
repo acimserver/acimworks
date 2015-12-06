@@ -1,0 +1,23 @@
+Parçaları ayrıca yerleştirme kodu:
+
+% PARÇA 1 
+  
+}
+\score {
+  \include "parca1.ly"
+  \header { piece = "Sesli Okuma Parçası - 1" }
+
+============================================================
+
+\header {
+  title = "Müziksel Okuma Parçaları"
+  subtitle = "Birinci Kitap"
+  composer = "Server ACİM"  
+  tagline = ""
+  copyright = \markup {
+			 \fill-line {
+			     \tiny {
+				\line {Server ACİM (2016) \epsfile #X #10 #'"/by-nc-nd.eps" }
+			     }
+		        }
+		}
