@@ -1,2 +1,0 @@
-@image{dikte1-1}
-@c eof
